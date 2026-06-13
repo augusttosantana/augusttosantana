@@ -136,7 +136,7 @@ Principais recursos:
 🌐 Acesse: [EasySalao](https://easysalao.vercel.app/)
 
 <p align="center">
-  <img src="./assets/easysalao-agendamentos.png" width="900">
+  <img src="./assets/easysalao-dashboard.png" width="900">
 </p>
 
 ---
