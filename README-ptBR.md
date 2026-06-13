@@ -9,6 +9,16 @@ Senior Java Developer | Backend Specialist | Tech Lead
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-AZ900%20%7C%20DP900-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
+💼 15+ anos em Telecom e Banking
+
+☕ Especialista em Java & Spring Ecosystem
+
+🏗️ Arquiteturas Distribuídas e Microsserviços
+
+☁️ AWS Certified | Azure Fundamentals
+
+🚀 Desenvolvendo produtos SaaS próprios
+
 ## Sobre Mim
 
 Profissional com mais de 15 anos de experiência em Tecnologia da Informação atuando no desenvolvimento, sustentação e evolução de sistemas corporativos para os segmentos de Telecom e Banking.
@@ -102,31 +112,84 @@ Também atuei como líder técnico de equipes de desenvolvimento, realizando cod
 
 ---
 
-## Projetos em Destaque
+## Produtos em Desenvolvimento (SaaS)
+Além dos projetos públicos disponíveis neste perfil, atualmente estou desenvolvendo soluções SaaS proprietárias voltadas para gestão empresarial e automação de processos.
 
-Os repositórios destacados neste perfil possuem como objetivo demonstrar conhecimentos técnicos, arquiteturas e práticas de engenharia de software utilizadas ao longo da minha trajetória profissional.
+Por questões de propriedade intelectual e estratégia de negócio, os repositórios destes produtos permanecem privados. Entretanto, disponibilizo abaixo algumas informações e capturas de tela para demonstrar a evolução e aplicação prática das soluções.
 
-Projetos atualmente em desenvolvimento:
+*💈 EasySalao*
 
-* Event Driven Commerce
-* Receivables API
-* OAuth2 Resource Server
-* Spring Batch Processor
-* Observability Lab
+Sistema SaaS para gestão de salões de beleza e barbearias.
+
+Status: MVP em produção com foco na digitalização da operação de pequenos e médios estabelecimentos do segmento de beleza.
+
+Stack:
+Java 21 • Spring Boot • PostgreSQL • React • Docker
+
+Principais recursos:
+- Gestão de clientes
+- Gestão de serviços
+- Gestão de colaboradores
+- Controle de agendamentos
+- Autenticação via Google
+
+🌐 Acesse: [EasySalao](https://easysalao.vercel.app/)
+
+<p align="center">
+  <img src="./assets/easysalao-agendamentos.png" width="900">
+</p>
 
 ---
 
-## Nota sobre os Projetos
+*🏢 Commander*
 
-Grande parte da minha experiência profissional foi construída em projetos corporativos para empresas dos segmentos de Telecom, Banking e Serviços Financeiros.
+Plataforma SaaS para gestão operacional de estabelecimentos noturnos.
 
-Por questões de confidencialidade, propriedade intelectual e acordos contratuais, os códigos-fonte e artefatos desenvolvidos nesses projetos não podem ser disponibilizados publicamente.
+Status: MVP em desenvolvimento.
 
-Os repositórios presentes neste perfil foram criados com o objetivo de demonstrar conhecimentos técnicos, arquiteturas, padrões de projeto e práticas de engenharia de software aplicados ao longo da minha trajetória profissional.
+Stack:
+Java 21 • Spring Boot • PostgreSQL • React • Docker
+
+Principais funcionalidades
+
+- Gestão de produtos
+- Gestão de comandas de consumo
+- Painel administrativo
+- Indicadores financeiros
+- Controle de usuários
+- Relatórios operacionais
+
+---
+
+Embora o código-fonte destes produtos não esteja disponível publicamente, eles representam aplicações reais em desenvolvimento ativo utilizando Java, React, Spring Boot, PostgreSQL, Docker, APIs REST e arquiteturas modernas de software.
+
+---
+## Projetos Open Source e Estudos
+
+Os repositórios destacados neste perfil possuem como objetivo demonstrar conhecimentos técnicos, arquiteturas e práticas de engenharia de software utilizadas ao longo da minha trajetória profissional.
+
+Projetos públicos concluídos no repositório:
+
+| Projeto | Tipo | Descrição |
+|----------|----------|------------|
+| [micro-service-webhooks](https://github.com/augusttosantana/micro-service-webhooks) | Backend | Integração HubSpot utilizando OAuth2, Webhooks e Arquitetura Hexagonal |
+| [embalagem-api](https://github.com/augusttosantana/embalagem-api) | Backend | API para cálculo e otimização de embalagens |
+| [dsmovie](https://github.com/augusttosantana/dsmovie) | Full Stack | Aplicação para avaliação de filmes |
+
+---
+
+## Experiência Corporativa
+
+Grande parte da minha experiência foi construída em projetos corporativos para empresas dos segmentos de Telecom, Banking e Serviços Financeiros.
+
+Por questões de confidencialidade e propriedade intelectual, esses códigos-fonte não podem ser disponibilizados publicamente.
+
+Os projetos presentes neste perfil representam tecnologias, arquiteturas e práticas utilizadas ao longo dessa trajetória.
 
 ---
 
 ## Contato
 
-* LinkedIn: https://www.linkedin.com/in/augusttosantana
-* GitHub: https://github.com/augusttosantana
+- [LinkedIn](https://www.linkedin.com/in/augusttosantana)
+- [GitHub](https://github.com/augusttosantana)
+- [Email](mailto:augustto.santana.ti@gmail.com)
